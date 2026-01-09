@@ -1,7 +1,12 @@
-
+#1 one time use
 git init
+
+#2 every time
 git add .
+#every time you commit
 git commit -m "first commit"
+
 git branch -M main
+g
 git remote add origin https://github.com/shouvik7591/shouvik-web.git
 git push -u origin main
